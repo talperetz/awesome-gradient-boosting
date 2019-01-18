@@ -33,7 +33,7 @@ Decision Tree
 	* [Catboost Github](https://github.com/catboost/catboost) 
 	* [Catboost Documentation](https://tech.yandex.com/catboost/doc/dg/concepts/about-docpage/)
 	* [Catboost Paper](https://arxiv.org/pdf/1706.09516.pdf) - CatBoost: unbiased boosting with categorical features
-- other
+- Other
 	* [sklearn](https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting) - Gradient Boosting Guide 
 	* [H20](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/gbm.html) - GBM
 	
